@@ -1,0 +1,6 @@
+/home/psdz/zhanglu/project/AirConditionerFCode/faultCodeReg/sample/4A_170023.811.jpg
+/home/psdz/zhanglu/project/AirConditionerFCode/faultCodeReg/sample/92_103427.097.jpg
+/home/psdz/zhanglu/project/AirConditionerFCode/faultCodeReg/sample/E5_121746.487.jpg
+/home/psdz/zhanglu/project/AirConditionerFCode/faultCodeReg/sample/F4-21_124803.158.jpg
+/home/psdz/zhanglu/project/AirConditionerFCode/faultCodeReg/sample/J4_150838.241.jpg
+/home/psdz/zhanglu/project/AirConditionerFCode/faultCodeReg/sample/UJ_170014.418.jpg

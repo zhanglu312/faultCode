@@ -1,0 +1,5 @@
+/home/psdz/zhanglu/project/AirConditionerFCode/faultCodeReg/build/CMakeFiles/rebuild_cache.dir
+/home/psdz/zhanglu/project/AirConditionerFCode/faultCodeReg/build/CMakeFiles/TEST_IMG.dir
+/home/psdz/zhanglu/project/AirConditionerFCode/faultCodeReg/build/CMakeFiles/TEST_FILE.dir
+/home/psdz/zhanglu/project/AirConditionerFCode/faultCodeReg/build/CMakeFiles/edit_cache.dir
+/home/psdz/zhanglu/project/AirConditionerFCode/faultCodeReg/build/CMakeFiles/TEST_PERFORMANCE.dir

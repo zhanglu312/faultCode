@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11  -shared -Wl,-soname,libfaultCode.so -o libfaultCode.so CMakeFiles/faultCode.dir/src/codeRecognizor.cpp.o  -L/usr/local/cuda-10.1/lib64 
